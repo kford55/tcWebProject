@@ -13,3 +13,4 @@ Business Requirements
 - Video Capatible, for product reviews. If we have a review for a product, that video should have be placed somewhere on the individual product page(the page that appears when one item is clicked). 
 - Search functionality for all products.
 - Admin page so that we can control the content of the page. (i.e. add products, change products, list promotions)
+- Responsive website. Should have a modified version for cell phone use. 
