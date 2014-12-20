@@ -1,0 +1,15 @@
+Business Requirements
+=======================
+
+- A site that feels natural to navigate through. 
+- Modern design feel. 
+- Filtering Functionality. We want customers to be able to shop by ride (Sport, Crusier, ADV, Dirt).
+- Product Rating and Comment Functionality for each product.
+- Login functionality for exsisting accounts. Register functionality for new customers. 
+- I want customers to also have the option to log out as guest if they don't have or want to register an account. 
+- Customer should have a view of shopping cart on every page. Pages should have drop down functionality if customer hovers mouse over the cart. 
+- Checkout page/process made simple. Very simple for the customer to complete.
+- Email system, that sends an email right after a purchase. Also used for updated shipping information and requesting product reviews.
+- Video Capatible, for product reviews. If we have a review for a product, that video should have be placed somewhere on the individual product page(the page that appears when one item is clicked). 
+- Search functionality for all products.
+- Admin page so that we can control the content of the page. (i.e. add products, change products, list promotions)
